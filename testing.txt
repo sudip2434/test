@@ -1,1 +1,2 @@
 this is a testing
+This is a line added in TRIAL branch
